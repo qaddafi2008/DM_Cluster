@@ -1,0 +1,86 @@
+0. D:\EProgramFiles\DMClassify\DM\runtime\newgroups\alt.atheism\49960
+1. D:\EProgramFiles\DMClassify\DM\runtime\newgroups\comp.graphics\38307
+2. D:\EProgramFiles\DMClassify\DM\runtime\newgroups\comp.os.ms-windows.misc\10112
+3. D:\EProgramFiles\DMClassify\DM\runtime\newgroups\comp.sys.ibm.pc.hardware\58989
+4. D:\EProgramFiles\DMClassify\DM\runtime\newgroups\comp.sys.mac.hardware\50448
+5. D:\EProgramFiles\DMClassify\DM\runtime\newgroups\comp.windows.x\66400
+6. D:\EProgramFiles\DMClassify\DM\runtime\newgroups\comp.windows.x\68279
+7. D:\EProgramFiles\DMClassify\DM\runtime\newgroups\misc.forsale\76826
+8. D:\EProgramFiles\DMClassify\DM\runtime\newgroups\rec.autos\103682
+9. D:\EProgramFiles\DMClassify\DM\runtime\newgroups\rec.motorcycles\105043
+10. D:\EProgramFiles\DMClassify\DM\runtime\newgroups\rec.sport.baseball\104937
+11. D:\EProgramFiles\DMClassify\DM\runtime\newgroups\rec.sport.hockey\54122
+12. D:\EProgramFiles\DMClassify\DM\runtime\newgroups\sci.crypt\15815
+13. D:\EProgramFiles\DMClassify\DM\runtime\newgroups\sci.electronics\54011
+14. D:\EProgramFiles\DMClassify\DM\runtime\newgroups\sci.med\59217
+15. D:\EProgramFiles\DMClassify\DM\runtime\newgroups\sci.space\61179
+16. D:\EProgramFiles\DMClassify\DM\runtime\newgroups\soc.religion.christian\20960
+17. D:\EProgramFiles\DMClassify\DM\runtime\newgroups\talk.politics.guns\54511
+18. D:\EProgramFiles\DMClassify\DM\runtime\newgroups\talk.politics.mideast\76324
+19. D:\EProgramFiles\DMClassify\DM\runtime\newgroups\talk.politics.misc\178691
+clusterAllDocuments :18828
+sum :336.9183753574305
+compute times: 1
+clusterAllDocuments :18828
+sum :1.9737274888239427
+compute times: 2
+clusterAllDocuments :18828
+sum :0.2312941602883355
+compute times: 3
+clusterAllDocuments :18828
+sum :0.05714499467129461
+compute times: 4
+clusterAllDocuments :18828
+sum :0.02865802263087894
+compute times: 5
+clusterAllDocuments :18828
+sum :0.013721474667665039
+compute times: 6
+clusterAllDocuments :18828
+sum :0.018150967968243233
+compute times: 7
+clusterAllDocuments :18828
+sum :0.009173061178553897
+compute times: 8
+e_eachPredictedCluster--1.7931123974216732--entropy---0.2777095682431272
+e_eachPredictedCluster--1.5648823343265477--entropy---0.3685538635171296
+e_eachPredictedCluster--2.349714797951289--entropy---0.40823993244364915
+e_eachPredictedCluster--1.7301193125029306--entropy---0.46291493727364935
+e_eachPredictedCluster--1.9636480116501014--entropy---0.5032767271880635
+e_eachPredictedCluster--1.8497395445976244--entropy---0.5476830515006897
+e_eachPredictedCluster--1.4325485173883585--entropy---0.6373124414243931
+e_eachPredictedCluster--1.9664833724750836--entropy---0.818628307932612
+e_eachPredictedCluster--0.9966497460243962--entropy---0.8648930135851147
+e_eachPredictedCluster--0.8370791454154938--entropy---0.908907691403329
+e_eachPredictedCluster--0.43121618310810816--entropy---0.9308486890354497
+e_eachPredictedCluster--0.5467031033884531--entropy---0.9596531015360523
+e_eachPredictedCluster--0.7863338919649634--entropy---1.0053847571394958
+e_eachPredictedCluster--2.296131767588962--entropy---1.0716052558542188
+e_eachPredictedCluster--1.2602832093654834--entropy---1.1275642936186943
+e_eachPredictedCluster--0.9760712586020617--entropy---1.1823607308580388
+e_eachPredictedCluster--1.9432367762860112--entropy---1.2154911220407354
+e_eachPredictedCluster--1.4668652957913382--entropy---1.3387427099917604
+e_eachPredictedCluster--2.492937056207115--entropy---1.3760811553842824
+e_eachPredictedCluster--1.8489082503642276--entropy---1.4372597107261622
+The entropy is: 1.4372597107261622
+	rc0	rc1	rc2	rc3	rc4	rc5	rc6	rc7	rc8	rc9	rc10	rc11	rc12	rc13	rc14	rc15	rc16	rc17	rc18	rc19	Total
+fc0	695	19	3	5	2	10	78	27	9	5	1	6	15	38	14	946	15	570	95	363	2916	
+fc1	0	665	74	39	60	80	42	23	2	11	1	7	44	9	28	1	1	0	2	4	1093	
+fc2	0	36	41	25	38	18	56	37	13	5	3	6	30	8	0	0	0	0	1	1	318	
+fc3	0	30	231	121	96	9	41	2	0	0	1	4	53	0	1	3	1	0	0	2	595	
+fc4	0	1	23	21	165	29	27	23	17	3	47	1	24	1	1	1	0	1	1	1	387	
+fc5	5	57	72	28	21	176	19	2	2	0	0	0	61	1	2	2	1	1	0	2	452	
+fc6	0	59	340	41	32	604	43	5	0	1	0	6	16	16	6	1	0	1	2	5	1178	
+fc7	15	50	101	587	366	25	313	24	38	6	2	3	129	14	7	5	14	21	12	4	1736	
+fc8	0	0	0	14	49	0	78	633	6	2	0	1	86	0	2	0	2	0	1	0	874	
+fc9	2	1	1	3	6	2	16	77	800	6	27	1	41	3	0	0	2	1	0	1	990	
+fc10	0	1	0	0	0	1	34	8	2	881	5	3	4	12	0	1	0	2	3	1	958	
+fc11	2	0	1	6	2	2	26	8	0	45	883	0	7	3	0	1	0	1	5	0	992	
+fc12	1	9	1	9	28	5	10	3	1	1	1	911	83	2	2	2	12	3	10	1	1095	
+fc13	0	26	45	52	47	6	72	45	24	2	18	2	159	21	5	1	3	5	9	1	543	
+fc14	9	4	4	9	7	1	35	10	15	2	6	2	38	609	13	5	5	6	48	8	836	
+fc15	12	8	9	1	7	2	32	16	1	1	1	1	51	56	836	2	2	2	10	7	1057	
+fc16	47	1	0	6	10	3	2	0	1	14	0	2	10	31	31	2	9	4	8	140	321	
+fc17	8	0	2	4	8	1	19	13	11	0	0	24	15	3	1	5	787	276	338	67	1582	
+fc18	1	6	33	8	6	3	16	21	42	9	2	3	8	3	29	0	56	24	4	8	282	
+fc19	2	0	4	3	11	3	13	13	10	0	1	8	107	160	9	19	0	22	226	12	623	
